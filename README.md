@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ser-2007&show_icons=true&theme=onedark)<br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/ser-2007)<br>
-<a href="https://unsplash.com/@ser-2007">unsplash</a>
+<a href="https://unsplash.com/@ser-2007">unsplash</a> -->
 
 ### Hi there 👋
 
