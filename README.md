@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ser-2007/ser-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 -
 Screen Shot 2021-05-16 at 8 05 22 PM
