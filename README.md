@@ -49,6 +49,4 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/serkan-s-2888261b9/) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ser-2007)  
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
