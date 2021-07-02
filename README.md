@@ -4,7 +4,7 @@
  <br>
 
 <!--
-**fatihtepe/fatihtepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ser-2007/ser-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -47,6 +47,4 @@ Here are some ideas to get you started:
 
 <!-- 👯 I’m looking for a job to develop myself and company.-->
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/serkan-s-2888261b9/) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ser-2007)  
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
