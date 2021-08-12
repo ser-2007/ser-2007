@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ser-2007&show_icons=true&theme=onedark)<br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ser2007/)
-[![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/ser-2007)<br>
-<a href="https://unsplash.com/@ser-2007">unsplash</a> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihtepe&show_icons=true&theme=onedark)<br>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/serkansahan/)
+[![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/ser-2007)
+<!--<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<a href="https://unsplash.com/@ser-2007">unsplash</a>
+<a href="https://ser-2007.github.io/">ser-2007.io</a>-->
 
 ### Hi there 👋
 
