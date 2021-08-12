@@ -1,7 +1,6 @@
+<img width="683" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://user-images.githubusercontent.com/79118602/123110598-3e9a6780-d40a-11eb-985e-5e95589b472a.png"><br>
 
-
-<img width="683" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://user-images.githubusercontent.com/79118602/118417447-0d4bb080-b682-11eb-8724-c002f98d0c0b.png">
- <br>
+<!-- <img src="./devops.gif" alt="react-native" width="25%" height="40%" align="right">
 
 <!--
 **ser-2007/ser-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ser-2007&show_icons=true&theme=onedark)<br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ser2007/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/ser-2007)<br>
 <a href="https://unsplash.com/@ser-2007">unsplash</a> -->
 
@@ -62,4 +61,14 @@ Here are some ideas to get you started:
 
 <!-- 👯 I’m looking for a job to develop myself and company.-->
 
+<!--[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/serkansahan/) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ser2007)  
+
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!--</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=himmelkonig&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himmelkonig&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmelkonig&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>-->
+
