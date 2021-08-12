@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - ✨ Motivated to learn, grow and excel in IT industry.
 - 📫 How to reach me: sersah95@gmail.com
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=ser-2007&column=9&theme=gruvbox&no-frame=true"/>
 ## ⚙ Tools
 
 
@@ -65,7 +67,7 @@ Here are some ideas to get you started:
 
 <!--[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/serkansahan/) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatihtepe)  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ser-2007)  
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!--</p>
