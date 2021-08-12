@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <!--[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/serkansahan/) 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ser2007)  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ser-2007)  
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!--</p>
