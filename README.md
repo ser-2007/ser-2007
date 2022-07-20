@@ -18,14 +18,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/serkansahan/) ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF9800?style=flat-quare&labelColor=FF9800&logo=Gmail&logoColor=white&link=link) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ser-2007) 
 
-<a href="https://unsplash.com/@ser-2007">unsplash</a>
-<a href="https://ser-2007.github.io/">ser-2007.io</a>-->
-
-
-
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ser-2007&column=9&theme=gruvbox&no-frame=true"/>
-
 
  <hr>
 
@@ -37,7 +29,7 @@ This repository shows the projects I have completed during my education at Claru
 
 List of hands-on trainings within Python workshop as follows;
 
-<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png" width="20%">
+<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.jpg" width="30%">
 
 - ### [Creating First Flask Application - Hello World](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
 
