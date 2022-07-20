@@ -47,7 +47,14 @@ This repository shows the projects I have completed during my education at Claru
 
 List of hands-on trainings within Python workshop as follows;
 <img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png" width="20%">
-- ### [Creating First Flask Application - Hello World](https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
+
+- ### [Creating First Flask Application - Hello World](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
+
+- ### [Handling Routes and Templates with Flask Web Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-03-handling-routes-and-if-for/README.md)
+
+- ### [Handling Routes and Templates with Flask Web Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-04-handling-forms-POST-GET-Methods/README.md)
+
+- ### [Handling Forms and SQL with Flask Web Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-05-Handling-SQL-with-Flask-Web-Application/README.md)
 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 
