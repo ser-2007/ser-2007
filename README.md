@@ -16,7 +16,7 @@
 - ✨ Motivated to learn, grow and excel in IT industry.
 - 📫 How to reach me: sersah95@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/serkansahan/) ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF9800?style=flat-quare&labelColor=FF9800&logo=Gmail&logoColor=white&link=link) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ser-2007) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/serkan-sahan/) ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF9800?style=flat-quare&labelColor=FF9800&logo=Gmail&logoColor=white&link=link) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ser-2007) 
 
 
  <hr>
