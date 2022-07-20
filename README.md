@@ -1,11 +1,8 @@
-<img width="683" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://user-images.githubusercontent.com/79118602/123110598-3e9a6780-d40a-11eb-985e-5e95589b472a.png"><br>
 
-<!-- <img src="./devops.gif" alt="react-native" width="25%" height="40%" align="right">
 
-<!--
-**ser-2007/ser-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3 align="center">Hi 👋, I'm Serkan Sahan</h3>
+<h3 align="center">Welcome to My GitHub Page</h3>
+<h3 align="center">Tervetulua Minun GitHub Sivulle</h3>
 
 - 🔭 I’m currently working as a AWS-DevOps Engineer
 
@@ -19,10 +16,8 @@ Here are some ideas to get you started:
 - ✨ Motivated to learn, grow and excel in IT industry.
 - 📫 How to reach me: sersah95@gmail.com
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/serkansahan/) ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF9800?style=flat-quare&labelColor=FF9800&logo=Gmail&logoColor=white&link=link) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ser-2007) 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/serkansahan/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ser-2007)
-<!--<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <a href="https://unsplash.com/@ser-2007">unsplash</a>
 <a href="https://ser-2007.github.io/">ser-2007.io</a>-->
 
@@ -30,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ser-2007&column=9&theme=gruvbox&no-frame=true"/>
-## ⚙ Tools
+
 
  <hr>
 
