@@ -40,6 +40,14 @@ Here are some ideas to get you started:
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ser-2007&column=9&theme=gruvbox&no-frame=true"/>
 ## ⚙ Tools
 
+# Here are some of my projects that I think you might be interested!         ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ 
+
+This repository shows the projects I have completed during my education at Clarusway. Repo is build for all my portfolios and projects.
+## Python Hands-on Trainings
+
+List of hands-on trainings within Python workshop as follows;
+<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png" width="20%">
+- ### [Creating First Flask Application - Hello World](https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 
