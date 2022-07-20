@@ -73,24 +73,24 @@ List of projects as follows;
 
 List of projects as follows;
 
-- ### [201-Create-Apache-Servers-with-Terraform](https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/201-Create-Apache-Servers-with-Terraform/README.md)
+- ### [201-Create-Apache-Servers-with-Terraform](https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/201-Create-Apache-Servers-with-Terraform/README.md)
 
 <!--![tf-draw.png](./DevOps/201-Create-Apache-Servers-with-Terraform/tf-draw.png)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/201-Create-Apache-Servers-with-Terraform/tf-draw.png" width="65%">
+<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/201-Create-Apache-Servers-with-Terraform/tf-draw.png" width="65%">
 
-- ### [202-Terraform-Phonebook-Application-deployed-on-AWS](https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/README.md)
-
-<!--![tf-phonebook.png](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png" width="65%">
-
-- ### [203-dockerization-bookstore-api-on-python-flask-mysql](https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/203-dockerization-bookstore-api-on-python-flask-mysql/README.md)
+- ### [202-Terraform-Phonebook-Application-deployed-on-AWS](https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/202-Terraform-Phonebook-Application-deployed-on-AWS/README.md)
 
 <!--![tf-phonebook.png](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/203-dockerization-bookstore-api-on-python-flask-mysql/203-bookstore-api.png" width="65%">
+<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png" width="65%">
 
-- ### [204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql](https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql/README.md)
+- ### [203-dockerization-bookstore-api-on-python-flask-mysql](https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/203-dockerization-bookstore-api-on-python-flask-mysql/README.md)
 
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/DevOps/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql/project-204.png" width="65%">
+<!--![tf-phonebook.png](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/203-dockerization-bookstore-api-on-python-flask-mysql/203-bookstore-api.png" width="65%">
+
+- ### [204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql](https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql/README.md)
+
+<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/DEVOPS/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql/project-204.png" width="65%">
 
 
  **Languages and Tools:**
