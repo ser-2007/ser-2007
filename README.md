@@ -7,28 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a student at Clarusway
+- 🔭 I’m currently working as a AWS-DevOps Engineer
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihtepe&show_icons=true&theme=onedark)<br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/serkansahan/)
-[![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/ser-2007)
-<!--<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<a href="https://unsplash.com/@ser-2007">unsplash</a>
-<a href="https://ser-2007.github.io/">ser-2007.io</a>-->
-
-### Hi there 👋
-
-- 🌱 I’m currently learning AWS, Linux Plus, Computer Network.
-- ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
-- You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
+- 🔭 I’m currently working on **AWS & DevOps**
+- 🌱 I am eager to learn cloud computing and devops tools
+- 🤔 I’m always passionate to learn and cooparate,
 - ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
 - Attention to detail and excellent organizational skills. 
 - ✨ Believes in the importance of learning new things every day. 
@@ -36,16 +19,29 @@ Here are some ideas to get you started:
 - ✨ Motivated to learn, grow and excel in IT industry.
 - 📫 How to reach me: sersah95@gmail.com
 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/serkansahan/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ser-2007)
+<!--<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<a href="https://unsplash.com/@ser-2007">unsplash</a>
+<a href="https://ser-2007.github.io/">ser-2007.io</a>-->
+
+
+
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ser-2007&column=9&theme=gruvbox&no-frame=true"/>
 ## ⚙ Tools
 
+ <hr>
+
 # Here are some of my projects that I think you might be interested!         ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ 
 
 This repository shows the projects I have completed during my education at Clarusway. Repo is build for all my portfolios and projects.
+
 ## Python Hands-on Trainings
 
 List of hands-on trainings within Python workshop as follows;
+
 <img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png" width="20%">
 
 - ### [Creating First Flask Application - Hello World](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
@@ -55,6 +51,63 @@ List of hands-on trainings within Python workshop as follows;
 - ### [Handling Routes and Templates with Flask Web Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-04-handling-forms-POST-GET-Methods/README.md)
 
 - ### [Handling Forms and SQL with Flask Web Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-05-Handling-SQL-with-Flask-Web-Application/README.md)
+
+## AWS Projects
+
+List of projects as follows;
+
+- ### [Project-101-Kittens-carousel-static-website-ec2](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-101-Kittens-carousel-static-website-ec2/README.md)
+
+<!--![Pro_Project_101.png](./AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png" width="65%">
+
+
+- ### [Project-102-Roman-Numerals-Converter](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-102-Roman-Numerals-Converter/README.md)
+
+<!--![Project_001.png](./AWS/Project-102-Roman-Numerals-Converter/Project_001.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-102-Roman-Numerals-Converter/Project_001.png" width="65%">
+
+- ### [Project-103-Phonebook-Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-103-Phonebook-Application/README.md)
+
+<!--![003_phonebook.png](./AWS/Project-103-Phonebook-Application/003_phonebook.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-103-Phonebook-Application/003_phonebook.png" width="65%">
+
+- ### [Project-104-Kittens-carousel-static-web-s3-cf](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/README.md)
+
+<!--![Project_006.png](./AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png" width="65%">
+
+- ### [Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/README.md)
+
+<!--![capstone.jpg](./AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg" width="65%">
+
+
+ **Languages and Tools:**
+ 
+ <p>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <br />
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
+  <br />
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <br />
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+   <br />
+</p>
+
 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
 
