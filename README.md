@@ -29,7 +29,7 @@ This repository shows the projects I have completed during my education at Claru
 
 List of hands-on trainings within Python workshop as follows;
 
-<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.jpg" width="30%">
+<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask1.jpg" width="30%">
 
 - ### [Creating First Flask Application - Hello World](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
 
