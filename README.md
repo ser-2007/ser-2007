@@ -28,6 +28,7 @@ This repository shows the projects I have completed during my education at Claru
 ## Python Hands-on Trainings
 
 List of hands-on trainings within Python workshop as follows;
+<!--![Pro_Project_101.png](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask1.jpg)-->
 
 <img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask1.jpg" width="30%">
 
