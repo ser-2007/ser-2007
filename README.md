@@ -70,7 +70,7 @@ List of projects as follows;
 <!--![capstone.jpg](./AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg)-->
 <img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg" width="65%">
 
-- ### [206-Kubernetes-Microservice-Phonebook]([https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/](https://github.com/ser-2007/aws_devops_projects/blob/main/DEVOPS/206-Kubernetes-Microservice-Phonebook/README.md)
+- ### [206-Kubernetes-Microservice-Phonebook](https://github.com/ser-2007/aws_devops_projects/blob/main/DEVOPS/206-Kubernetes-Microservice-Phonebook/README.md)
 - 
 <!--![Microservice_structure.png](./DEVOPS/206-Kubernetes-Microservice-Phonebook/Microservice_structure.jpg)-->
 <img src="https://github.com/ser-2007/aws_devops_projects/blob/main/DEVOPS/206-Kubernetes-Microservice-Phonebook/Microservice_structure.png" width="65%">
