@@ -87,9 +87,7 @@ List of projects as follows;
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
   <br />
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -97,7 +95,8 @@ List of projects as follows;
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/kibana/kibana-ar21.svg"></code>
    <br />
 </p>
 
