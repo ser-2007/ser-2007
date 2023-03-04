@@ -28,9 +28,9 @@ This repository shows the projects I have completed during my education at Claru
 ## Python Hands-on Trainings
 
 List of hands-on trainings within Python workshop as follows;
-<!--![Pro_Project_101.png](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask1.jpg)-->
+<!--![Pro_Project_101.png](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)-->
 
-<img src="https://github.com/ser-2007/aws_devops_projects/tree/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask1.jpg" width="30%">
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png" width="30%">
 
 - ### [Creating First Flask Application - Hello World](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
 
@@ -83,6 +83,8 @@ List of projects as follows;
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+ <code><img width="13%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
+ 
   <br />
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
@@ -99,16 +101,11 @@ List of projects as follows;
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
    <br />
-</p>
+ <code><img width="13%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+ <code><img width="13%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></code>
+ <code><img width="13%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> 
+  <br />
 
-
-<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a> 
-
-</p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ser-2007&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ser-2007&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
