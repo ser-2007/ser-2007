@@ -96,7 +96,7 @@ List of projects as follows;
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/kibana/kibana-ar21.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
    <br />
 </p>
 
