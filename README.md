@@ -47,8 +47,8 @@ List of projects as follows;
 
 - ### [Project-101-Kittens-carousel-static-website-ec2](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-101-Kittens-carousel-static-website-ec2/README.md)
 
-<!--![Pro_Project_101.png](./AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png" width="65%">
+<!--![Pro_Project_101.png](./AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project101.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project101.png" width="65%">
 
 
 - ### [Project-102-Roman-Numerals-Converter](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-102-Roman-Numerals-Converter/README.md)
