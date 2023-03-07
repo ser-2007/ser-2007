@@ -63,8 +63,8 @@ List of projects as follows;
 
 - ### [Project-104-Kittens-carousel-static-web-s3-cf](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/README.md)
 
-<!--![Project_006.png](./AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png" width="65%">
+<!--![Project_006.png](./AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006-.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006-.png" width="65%">
 
 - ### [Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/README.md)
 
