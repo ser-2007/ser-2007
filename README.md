@@ -58,8 +58,8 @@ List of projects as follows;
 
 - ### [Project-103-Phonebook-Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-103-Phonebook-Application/README.md)
 
-<!--![003_phonebook.png](./AWS/Project-103-Phonebook-Application/003_phonebook.png)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-103-Phonebook-Application/003_phonebook.png" width="65%">
+<!--![003_phonebook-.png](./AWS/Project-103-Phonebook-Application/003_phonebook-.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-103-Phonebook-Application/003_phonebook-.png" width="65%">
 
 - ### [Project-104-Kittens-carousel-static-web-s3-cf](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/README.md)
 
