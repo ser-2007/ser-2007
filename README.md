@@ -74,7 +74,7 @@ List of projects as follows;
 - ### [206-Kubernetes-Microservice-Phonebook](https://github.com/ser-2007/aws_devops_projects/blob/main/DEVOPS/206-Kubernetes-Microservice-Phonebook/README.md)
 
 <!--![Microservice_structure.png](./DEVOPS/206-Kubernetes-Microservice-Phonebook/Microservice_structure.jpg)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/DEVOPS/206-Kubernetes-Microservice-Phonebook/Microservice_structure.png" width="65%">
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/DEVOPS/206-Kubernetes-Microservice-Phonebook/Microservice_structure-.png" width="65%">
 
  **Languages and Tools:**
  
