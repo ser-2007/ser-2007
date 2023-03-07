@@ -53,8 +53,8 @@ List of projects as follows;
 
 - ### [Project-102-Roman-Numerals-Converter](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-102-Roman-Numerals-Converter/README.md)
 
-<!--![Project_001.png](./AWS/Project-102-Roman-Numerals-Converter/Project_001_.png)-->
-<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-102-Roman-Numerals-Converter/Project_001.png" width="65%">
+<!--![Project_001_.png](./AWS/Project-102-Roman-Numerals-Converter/Project_001_.png)-->
+<img src="https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-102-Roman-Numerals-Converter/Project_001_.png" width="65%">
 
 - ### [Project-103-Phonebook-Application](https://github.com/ser-2007/aws_devops_projects/blob/main/AWS/Project-103-Phonebook-Application/README.md)
 
