@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working as a AWS-DevOps Engineer
 
-- 🔭 I’m currently working on **AWS & DevOps**
 - 🌱 I am eager to learn cloud computing and devops tools
 - 🤔 I’m always passionate to learn and cooparate,
 - ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
