@@ -27,7 +27,7 @@ This repository shows the projects I have completed during my education at Claru
 ## supermario on aws-eks
 ![./images/image](https://github.com/ser-2007/deploy-supermario-on-aws-/assets/81197541/b635b075-fe1f-481c-b7f4-a4411a92e42a)
 
-- ###  [super-mario-aws-eks](https://github.com/ser-2007/deploy-supermario-on-aws-.git/README.md)
+- ###  [super-mario-aws-eks](https://github.com/ser-2007/deploy-supermario-on-aws-/blob/main/README.md)
 
   
 ## Python Hands-on Trainings
