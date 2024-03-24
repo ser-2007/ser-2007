@@ -24,6 +24,9 @@
 
 This repository shows the projects I have completed during my education at Clarusway. Repo is build for all my portfolios and projects.
 
+## supermario on aws-eks
+![./images/image](https://github.com/ser-2007/deploy-supermario-on-aws-/assets/81197541/b635b075-fe1f-481c-b7f4-a4411a92e42a)
+
 ## Python Hands-on Trainings
 
 List of hands-on trainings within Python workshop as follows;
